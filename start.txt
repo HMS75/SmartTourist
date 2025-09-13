@@ -1,0 +1,9 @@
+After cloning this repository and opening it on your VSCode:
+1. Open 2 terminals - one for backend and another for frontend
+2. For backend - run the following commands:
+   cd backend 
+   python app.py
+3. For frontend - run the following commands:
+   cd frontend
+   (npm install) - (only for first time) 
+   npm start 
